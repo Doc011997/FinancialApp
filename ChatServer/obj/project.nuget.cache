@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGp7zsh+O8ifnMG2y3dCNoDoPsqGCa1mbpQpI6NQl9s5E5krVCRK0i4XdKNj312yJCb1xPKz/B+OS7nIr7+Jnw==",
+  "success": true,
+  "projectFilePath": "/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatServer/ChatServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/doc-natha/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

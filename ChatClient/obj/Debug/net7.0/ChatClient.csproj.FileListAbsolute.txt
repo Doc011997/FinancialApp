@@ -1,0 +1,15 @@
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/bin/Debug/net7.0/ChatClient
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/bin/Debug/net7.0/ChatClient.deps.json
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/bin/Debug/net7.0/ChatClient.runtimeconfig.json
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/bin/Debug/net7.0/ChatClient.dll
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/bin/Debug/net7.0/ChatClient.pdb
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.csproj.AssemblyReference.cache
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.AssemblyInfoInputs.cache
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.AssemblyInfo.cs
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.dll
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/refint/ChatClient.dll
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.pdb
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ChatClient.genruntimeconfig.cache
+/Users/doc-natha/Desktop/M1/Comnandos/FinanceApp/ChatClient/obj/Debug/net7.0/ref/ChatClient.dll
